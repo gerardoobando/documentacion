@@ -1,1 +1,138 @@
-crear rama donde se colocara la documentacion de la landing page
+Documentación cadep 
+
+Carmen Azucena Lopez Oscal - 1890-22-3067
+Luis Gerardo Obando González 1890-21-4190
+Douglas pineda - 1890-22-2255
+
+ 
+Índice
+
+Introducción	2
+Justificación	2
+3. Objetivos del Sistema	3
+3.1 Objetivo General	3
+3.2 Objetivos Específicos	3
+4. Alcance del Sistema	3
+5. Descripción del Sistema	3
+5.1 Módulo de Gestión Interna	3
+5.2 Base de Datos Centralizada	4
+5.3 Sitio Web de Donaciones	4
+6. Beneficios del Sistema	4
+7. Manual de Uso del Sistema	4
+7.1 Ingreso al Sistema	4
+7.2 Registro de Información	4
+7.3 Consultas y Reportes	4
+7.4 Módulo de Donaciones en el Sitio Web	5
+8. Seguridad y Mantenimiento	5
+9. Conclusión	5
+
+
+ 
+MANUAL CADEP
+Introducción
+La institución CADEP Guatemala, enfocada en el apoyo comunitario, educativo y social, ha gestionado durante años su información de forma manual mediante hojas impresas, carpetas físicas y documentos en papel. Aunque este método ha cumplido su función, también ha ocasionado problemas como duplicidad de datos, extravío de documentos, procesos lentos y dificultades para acceder a los registros históricos.
+Con el propósito de modernizar y optimizar su gestión, se desarrolló un sistema informático integral que centraliza digitalmente la información y, además, se implementó un sitio web oficial de donaciones. Este sistema permitirá registrar, consultar y actualizar datos de manera ágil y segura, garantizando un mejor control y acceso a la información.
+
+Justificación
+La necesidad de implementar un sistema tecnológico en CADEP Guatemala responde a los siguientes factores:
+Modernización de procesos: Dejar atrás el manejo manual de documentos para contar con registros digitales más confiables.
+Acceso rápido a la información: Consultas y reportes generados en segundos en lugar de horas.
+Transparencia institucional: Mayor control y confiabilidad en los registros internos.
+Impulso social: Un sitio web de donaciones que permitirá a colaboradores y benefactores contribuir de manera fácil y segura.
+Base de datos centralizada: Evitar duplicidad y pérdida de información.
+3. Objetivos del Sistema
+3.1 Objetivo General
+Implementar un sistema digital de gestión y un sitio web de donaciones para la institución CADEP Guatemala, que permita un control eficiente de datos y fomente la participación de donantes.
+3.2 Objetivos Específicos
+•	Digitalizar los procesos administrativos que actualmente se llevan de forma manual.
+•	Desarrollar una base de datos estructurada que centralice toda la información institucional.
+•	Crear un portal web de donaciones con pasarela de pago integrada.
+•	Garantizar la seguridad y respaldo de los datos mediante políticas de control.
+•	Facilitar la emisión de reportes y estadísticas para la toma de decisiones.
+4. Alcance del Sistema
+•	El sistema cubrirá las siguientes áreas de la institución:
+•	Gestión Administrativa: Registro de información de usuarios, colaboradores, beneficiarios y proyectos.
+•	Almacenamiento Digital: Sustitución del manejo de archivos físicos por almacenamiento en bases de datos.
+•	Consultas y Reportes: Generación de reportes automáticos con filtros avanzados.
+•	Sitio Web Institucional: Acceso público para información de CADEP Guatemala y canal oficial de donaciones.
+•	Módulo de Donaciones: Plataforma segura donde personas naturales o jurídicas podrán realizar aportes económicos en línea.
+5. Descripción del Sistema
+5.1 Módulo de Gestión Interna
+•	Registro de usuarios, beneficiarios y colaboradores.
+•	Control de proyectos y actividades.
+•	Generación de reportes (mensuales, anuales, personalizados).
+•	Exportación de información en formatos PDF y Excel.
+
+5.2 Base de Datos Centralizada
+•	Diseñada para garantizar la integridad de la información.
+•	Uso de tecnologías modernas (ejemplo: SQL Server / MySQL).
+•	Permite consultas rápidas y actualizaciones en tiempo real.
+•	Respaldo automático de la información.
+
+5.3 Sitio Web de Donaciones
+•	Accesible desde cualquier dispositivo.
+•	Información institucional y transparencia de proyectos.
+•	Sección de donaciones en línea con seguridad SSL.
+•	Registro automático de donaciones en la base de datos.
+•	Emisión de comprobantes digitales para los donantes.
+
+
+
+6. Beneficios del Sistema
+•	Rapidez: Consultas y registros inmediatos.
+•	Seguridad: Reducción de pérdidas de información.
+•	Transparencia: Control preciso de los fondos recibidos.
+•	Accesibilidad: Datos disponibles desde cualquier lugar.
+•	Escalabilidad: Posibilidad de agregar más módulos en el futuro (ej. inventarios, contabilidad).
+7. Manual de Uso del Sistema
+7.1 Ingreso al Sistema
+•	Acceder mediante usuario y contraseña asignados.
+•	Pantalla inicial con opciones principales (Usuarios, Proyectos, Donaciones, Reportes).
+7.2 Registro de Información
+•	Llenar los formularios digitales con los datos correspondientes.
+•	Validación automática de campos para evitar duplicados.
+7.3 Consultas y Reportes
+•	Acceso rápido por filtros (fecha, beneficiario, proyecto).
+•	Opción de exportar información.
+7.4 Módulo de Donaciones en el Sitio Web
+•	El usuario accede a la sección de donaciones.
+•	Selecciona monto y método de pago.
+•	Recibe confirmación digital en su correo electrónico.
+8. Seguridad y Mantenimiento
+•	Respaldo periódico de la base de datos.
+•	Cifrado de contraseñas y datos sensibles.
+•	Acceso restringido a usuarios autorizados.
+•	Auditoría de actividades internas.
+•	Actualizaciones periódicas del sistema y sitio web.
+9. Conclusión
+El sistema desarrollado para CADEP Guatemala representa un salto tecnológico que fortalece la administración de la institución, garantiza la transparencia en el manejo de recursos y abre un canal moderno y confiable para que los donantes contribuyan con la misión social. Esta implementación asegura que la institución pueda seguir creciendo con bases sólidas, confiables y modernas.
+
+ 
+Como funciona el boot 
+Que librerías lleva
+Como funciona el boot en la forma de preguntar por terapeuta
+Practicantes 
+Tokens 
+Terapeuta cambia de numero 
+Como es que el chat boot guarda información del terapeuta
+Manual 
+Descripción 
+(es una institución que no recibe nada del gobierno….
+La carrera ingeniería en sistemas de 8va semestre esta realizando un programa para las mejoras y el control de los documentos para que cadep ya no este usando de manera manual las cosas y agilizar la documentación 
+
+Donaciones 
+Es un apartado para recinir donaciones para comprar material, maquinas y se puedan comprar aparatos o herramientas adaptados a las necesidades de las personas 
+
+SISTEMA GUIA
+Como iniciar sesión según el sistema de cadeo
+El terapeuta tiene un login donde ingresa a 
+Como se relaciona el programa 
+Endpoints 
+Api
+Base de datos
+Tablas MUCHAS
+Chat boot
+Para problemas visuales- funciona con los siguientes comandos 
+
+
+

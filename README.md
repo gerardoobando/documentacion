@@ -67,7 +67,7 @@ Este proyecto fue realizado por:
 * Douglas Pineda 1890-22-2255 [cite: 8]
 
 ### Contexto Académico
-* [cite_start]**Universidad:** Universidad Mariano Gálvez De Guatemala [cite: 1]
-* [cite_start]**Carrera:** Ingeniería en Sistemas [cite: 2]
-* [cite_start]**Curso:** Análisis de Sistemas [cite: 3]
-* **Catedrática:** Ing. [cite_start]Richard Sazvin [cite: 4]
+* **Universidad:** Universidad Mariano Gálvez De Guatemala [cite: 1]
+* **Carrera:** Ingeniería en Sistemas [cite: 2]
+* **Curso:** Análisis de Sistemas [cite: 3]
+* **Catedrática:** Ing. Richard Sazvin [cite: 4]
